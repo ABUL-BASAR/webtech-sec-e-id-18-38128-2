@@ -1,0 +1,12 @@
+For new repository 
+ 1.git init
+ 2.git remote add origin https://github.com/ABUL-BASAR/webtech-sec-e-id-18-38128-2.git
+ 3.git add .
+ 4.git commit -m "first commit"
+ 5.git push -u origin master
+
+For old repository
+ 1.git add .
+ 2.git commit -m "first commit"
+ 3.git push
+
